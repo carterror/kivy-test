@@ -1,0 +1,9 @@
+kivy
+kivymd
+oscpy
+buildozer
+plyer
+pyinstaller
+pypiwin32; sys_platform == "win"
+kivy_deps.sdl2==0.1.*; sys_platform == "win"
+kivy_deps.angle==0.1.*; sys_platform == "win"
